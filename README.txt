@@ -1,3 +1,7 @@
+# Ultra Cop
+Web automation bot programmed in Python to purchase items from Supreme clothing website, where popular items sell out in seconds (~80% success rate)
+
+
 THIS WAS A 2017 PROJECT THAT IS NOW DEFUNCT
 YOU CAN SEE A DEMO VIDEO HERE: https://vimeo.com/198259862
 
