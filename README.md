@@ -3,8 +3,11 @@ Web automation bot programmed in Python to purchase items from Supreme clothing 
 
 # What I learned
 Web Automation (Selenium webdriver)
+
 HTML Scraping (urllib, BeautifulSoup)
+
 Threading
+
 UI Design (Tkinter)
 
 # How to use
